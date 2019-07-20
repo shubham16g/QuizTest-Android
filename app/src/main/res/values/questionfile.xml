@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="QueList">
+        <item>1,,Which of the following is possible in a token passing bus network ?,,in-service expansion,,unlimited number of stations,,both (a) and (b),,unlimited distance</item>
+        <item>1,,In networking terminology UTP means,,Unshielded Twisted pair,,Ubiquitous Teflon port,,Uniformly Terminating port,,Unshielded T-connector port</item>
+        <item>3,,Simple network management protocol (SNMP) is implemented with a daughter board in,,the nodes,,the server,,the hubs,,a separate PC that manages the network</item>
+        <item>2,,The amount of uncertainty in a system of symbol is called,,Bandwidth,,Entropy,,Loss,,Quantum</item>
+        <item>4,,Working of the WAN generally involves,,telephone lines,,micro waves,,satellites,,All of these</item>
+        <item>2,,Different computers are connected to a LAN by a cable and,,modem,,interface card,,special wires,,telephone lines</item>
+        <item>3,,Modem is used in data transmission. When was it involved and in which country ?,,1963 USA,,1965 Germany,,1950 USA,,1950 Japan</item>
+        <item>4,,Fibre optics have maximum segment,,500 m,,200 m,,100 m,,2000 m</item>
+        <item>3,,Twisted pair have maximum segment of,,500 m,,200 m,,100 m,,2000 m</item>
+        <item>1,,Thick coax have maximum segment of,,500 m,,200 m,,100 m,,700 m</item>
+    </string-array>
+
+</resources>
