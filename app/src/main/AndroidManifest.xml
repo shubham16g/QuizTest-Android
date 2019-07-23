@@ -25,8 +25,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".QuizActivity" />
-        <activity android:name=".MainMenuActivity" />
         <activity android:name=".GameOverActivity" />
+        <activity android:name=".MainMenuActivity" />
     </application>
 
 </manifest>

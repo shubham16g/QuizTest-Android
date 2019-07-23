@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bacj_red"
+    android:orientation="vertical">
+
+    <TextView
+        android:text="Game Over"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"
+        android:textSize="50sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:background="@drawable/corner_button"
+        android:textColor="@android:color/white"
+        android:id="@+id/idRetry"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="20dp"
+        android:text="Retry"
+        android:textSize="18sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:layout_marginTop="5dp"
+        android:background="@drawable/corner_button"
+        android:textColor="@android:color/white"
+        android:id="@+id/idMenu"
+        android:layout_marginHorizontal="20dp"
+        android:text="Main Menu"
+        android:textSize="18sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>

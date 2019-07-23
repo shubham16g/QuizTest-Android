@@ -197,7 +197,10 @@ public class QuizActivity extends AppCompatActivity {
                         handler1.postDelayed(new Runnable() {
                             @Override
                             public void run() {
-//                                game over here
+                                Intent intent = new Intent(QuizActivity.this, GameOverActivity.class);
+                                startActivity(intent);
+                                overridePendingTransition(android.R.anim.fade_in,android.R.anim.fade_out);
+                                finish();
                             }
                         }, 800);
                     }
